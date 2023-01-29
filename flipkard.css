@@ -143,17 +143,7 @@ body {
   font-size: 17px;
   letter-spacing: 0.1px;
 }
-/* .c2-label2 {
-  color: rgb(158, 154, 154);
-  padding: 10px 20px;
-  position: absolute;
-  top: 27.5%;
-  left: 46.5%;
-  display: inline-block;
-  transition: 0.5s;
-  pointer-events: none;
-  font-size: 18px;
-} */
+
 .c2-input1:focus ~ .c2-label1,
 .c2-input1:valid ~ .c2-label1 {
   top: 17%;
@@ -161,12 +151,6 @@ body {
   font-size: 12px;
   font-weight: 500;
 }
-/* #c2-input2:focus ~ .c2-label2,
-#c2-input2:valid ~ .c2-label2 {
-  top: 25%;
-  left: 46.5%;
-  font-size: 13px;
-} */
 
 .c2-input1:focus {
   border-bottom: 1px solid #2874f0;
